@@ -1,4 +1,4 @@
-# Vaibhav Mishra – Portfolio Website
+# Vaibhav Kumar Mishra – Portfolio Website
 
 🔗 Live Site: https://vaibhavkmishra0327-hash.github.io
 
